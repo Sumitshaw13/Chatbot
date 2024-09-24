@@ -36,8 +36,8 @@ To run this project, you'll need the following:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/tech-titans.git
-    cd tech-titans
+    git clone https://github.com/your-username/Chatbot.git
+    cd Chatbot
     ```
 
 2. Set up a virtual environment (optional but recommended):
